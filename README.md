@@ -9,16 +9,16 @@
 2. Tampilan frontend menggunakan NUXT 3, dengan menggunakan template tailwincss
 
    a. Halaman Login
- ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/dokumentasi-api.png)
+ ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/login.png)
 
    b. Halaman Register
- ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/dokumentasi-api.png)
+ ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/register.png)
 
    c. Halaman Dashboard
- ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/dokumentasi-api.png)
+ ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/dashboard.png)
  
    d. Halaman Tamu
- ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/dokumentasi-api.png)
+ ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/tamu.png)
 
    e. Halaman Add Tamu
- ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/dokumentasi-api.png)
+ ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/add-tamu.png)
