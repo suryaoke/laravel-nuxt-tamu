@@ -4,4 +4,4 @@
    dan dokumentasi serta pengujian menggunakan Scramble.
    
    End Point dari scramble:
-   ![alt text](https://github.com/suryaoke/CRM/blob/main/dokumentasi.png)
+   ![alt text](https://github.com/suryaoke/laravel-nuxt-tamu/blob/main/dokumentasi-api.png)
